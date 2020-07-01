@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Circles</title>
@@ -201,6 +200,7 @@
 
 </head>
 <body>
+	<h3 id="heading">Press any key, A to Z to see some amazing sounds & visuals, and turn up speakers</h3>
 	<canvas id="myCanvas" resize></canvas>
 </body>
 </html>
