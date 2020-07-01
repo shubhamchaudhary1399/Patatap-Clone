@@ -5,7 +5,7 @@ I have tried to make a clone of it using howler.js audio library for modern web 
 ## Technologies used
 -- HTML, CSS, JavaScript
 -- Howler.js
--- Papaer.js
+-- Paper.js
 ## Setup
 -- Just clone this repository and rename the index.md file to index.html and you are good to go.
 -- Hope you enjoyed this work.
